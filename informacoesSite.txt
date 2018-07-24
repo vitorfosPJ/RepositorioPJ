@@ -1,0 +1,15 @@
+Nome do host:
+
+files.000webhost.com
+
+Port:
+
+21
+
+Nome de usuário:
+
+vitorfelix
+
+Senha:
+
+Mesma senha do seu site
